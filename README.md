@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rahul Prajapat.
+- 👀 I’m interested in new tech.
+- 🌱 I’m currently learning multiple tech languages.
